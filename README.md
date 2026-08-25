@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Mi GitHub Page</title>
+  <title>Mi GitHub Page Hola Mundo!</title>
   <style>
     body {
       font-family: Arial, sans-serif;
